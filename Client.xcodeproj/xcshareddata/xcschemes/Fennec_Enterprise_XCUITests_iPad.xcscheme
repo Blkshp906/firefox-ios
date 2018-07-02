@@ -200,6 +200,9 @@
                   Identifier = "AuthenticationTest/testPromptPassCodeUponReentry()">
                </Test>
                <Test
+                  Identifier = "ClipBoardTests/testClipboardPasteAndGo()">
+               </Test>
+               <Test
                   Identifier = "FirstRunTourTests/testFirstRunTour()">
                </Test>
                <Test
@@ -222,6 +225,9 @@
                </Test>
                <Test
                   Identifier = "NavigationTest/testReloadPreservesMobileOrDesktopSite()">
+               </Test>
+               <Test
+                  Identifier = "NavigationTest/testSSL()">
                </Test>
                <Test
                   Identifier = "NavigationTest/testScrollsToTopWithMultipleTabs()">

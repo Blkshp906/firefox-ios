@@ -203,6 +203,9 @@
                   Identifier = "BaseTestCase">
                </Test>
                <Test
+                  Identifier = "ClipBoardTests/testClipboardPasteAndGo()">
+               </Test>
+               <Test
                   Identifier = "DragAndDropTests">
                </Test>
                <Test
@@ -228,6 +231,9 @@
                </Test>
                <Test
                   Identifier = "NavigationTest/testReloadPreservesMobileOrDesktopSite()">
+               </Test>
+               <Test
+                  Identifier = "NavigationTest/testSSL()">
                </Test>
                <Test
                   Identifier = "NavigationTest/testScrollsToTopWithMultipleTabs()">
